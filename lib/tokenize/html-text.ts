@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeHtml
 
 var assert = require('assert')

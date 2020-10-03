@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeSetextUnderline
 exports.resolveTo = resolveToSetextUnderline
 

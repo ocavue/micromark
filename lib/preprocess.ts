@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = preprocessor
 
 var codes = require('./character/codes')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // This module is compiled away!
 //
 // Here is the list of all types of tokens exposed by micromark, with a short

@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = serializeChunks
 
 var assert = require('assert')

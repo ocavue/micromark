@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = resolveAll
 
 function resolveAll(constructs, events, context) {

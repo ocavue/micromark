@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = markdownSpace
 
 var codes = require('./codes')

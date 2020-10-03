@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = initializeFlow
 
 var assert = require('assert')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = asciiControl
 
 var codes = require('./codes')

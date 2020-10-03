@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = createWhitespace
 
 var markdownLineEnding = require('../character/markdown-line-ending')

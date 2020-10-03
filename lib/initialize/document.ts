@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = initializeDocument
 
 var codes = require('../character/codes')

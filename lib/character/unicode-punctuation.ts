@@ -1,3 +1,4 @@
+// @ts-nocheck
 var unicodePunctuation = require('../constant/unicode-punctuation-regex')
 var check = require('../util/regex-check')
 

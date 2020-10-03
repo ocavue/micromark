@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizelabelImage
 exports.resolveAll = require('./label-end').resolveAll
 

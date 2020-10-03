@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeAtxHeading
 exports.resolve = resolveAtxHeading
 

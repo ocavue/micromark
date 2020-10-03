@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = subtokenize
 
 var assert = require('assert')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = createDestination
 
 var asciiControl = require('../character/ascii-control')

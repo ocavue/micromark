@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = createTitle
 
 var assert = require('assert')

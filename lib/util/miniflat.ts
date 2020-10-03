@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = miniflat
 
 function miniflat(value) {

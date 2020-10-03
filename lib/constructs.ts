@@ -1,3 +1,4 @@
+// @ts-nocheck
 var attention = require('./tokenize/attention')
 var headingAtx = require('./tokenize/heading-atx')
 var autolink = require('./tokenize/autolink')

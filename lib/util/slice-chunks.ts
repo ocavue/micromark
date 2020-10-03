@@ -1,3 +1,4 @@
+// @ts-nocheck
 var assert = require('assert')
 
 module.exports = sliceChunks

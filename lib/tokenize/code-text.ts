@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeCodeText
 exports.resolve = resolveCodeText
 exports.previous = previous

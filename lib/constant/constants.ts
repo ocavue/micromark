@@ -1,3 +1,4 @@
+// @ts-nocheck
 // This module is compiled away!
 //
 // Parsing markdown comes with a couple of constants, such as minimum or maximum

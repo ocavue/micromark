@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeHardBreakEscape
 
 var assert = require('assert')

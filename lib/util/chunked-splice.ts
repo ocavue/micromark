@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = chunkedSplice
 
 var constants = require('../constant/constants')

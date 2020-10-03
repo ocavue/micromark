@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = normalizeIdentifier
 
 var values = require('../character/values')

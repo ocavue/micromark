@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = createParser
 
 var initializeContent = require('./initialize/content')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = sizeChunks
 
 // Measure the number of character codes in chunks.

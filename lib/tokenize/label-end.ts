@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeLabelEnd
 exports.resolveTo = resolveToLabelEnd
 exports.resolveAll = resolveAllLabelEnd

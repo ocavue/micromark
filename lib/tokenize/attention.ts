@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeAttention
 exports.resolveAll = resolveAllAttention
 

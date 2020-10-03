@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = createSpace
 
 var markdownSpace = require('../character/markdown-space')

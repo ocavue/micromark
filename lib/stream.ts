@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = stream
 
 var EventEmitter = require('events').EventEmitter

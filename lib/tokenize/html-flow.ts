@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeHtml
 exports.resolveTo = resolveToHtml
 exports.concrete = true

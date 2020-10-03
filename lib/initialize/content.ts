@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = initializeContent
 
 var assert = require('assert')

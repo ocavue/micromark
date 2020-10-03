@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeListStart
 exports.continuation = {tokenize: tokenizeListContinuation}
 exports.exit = tokenizeListEnd

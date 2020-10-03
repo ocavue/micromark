@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.text = initializeFactory('text')
 exports.string = initializeFactory('string')
 exports.resolver = {resolveAll: resolver()}

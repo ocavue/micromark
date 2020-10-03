@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = safeFromInt
 
 var codes = require('../character/codes')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = prefixSize
 
 var sizeChunks = require('./size-chunks')

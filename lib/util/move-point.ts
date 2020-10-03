@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = movePoint
 
 // Note! `move` only works inside lines! It’s not possible to move past other

@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeWhitespace
 
 var assert = require('assert')

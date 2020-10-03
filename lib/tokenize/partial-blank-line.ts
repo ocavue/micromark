@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeBlankLine
 exports.partial = true
 

@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeBlockQuoteStart
 exports.continuation = {tokenize: tokenizeBlockQuoteContinuation}
 exports.exit = exit

@@ -1,3 +1,4 @@
+// @ts-nocheck
 // While micromark is a lexer/tokenizer, the common case of going from markdown
 // to html is currently built in as this module, even though the parts can be
 // used separately to build ASTs, CSTs, or many other output formats.

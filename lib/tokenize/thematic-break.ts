@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeThematicBreak
 
 var assert = require('assert')

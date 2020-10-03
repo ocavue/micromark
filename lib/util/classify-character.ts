@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = classifyCharacter
 
 var codes = require('../character/codes')

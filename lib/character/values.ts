@@ -1,3 +1,4 @@
+// @ts-nocheck
 // This module is compiled away!
 //
 // While micromark works based on character codes, this module includes the

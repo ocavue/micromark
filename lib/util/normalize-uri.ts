@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = normalizeUri
 
 var codes = require('../character/codes')

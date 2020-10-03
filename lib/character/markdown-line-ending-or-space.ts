@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = markdownLineEndingOrSpace
 
 var codes = require('./codes')

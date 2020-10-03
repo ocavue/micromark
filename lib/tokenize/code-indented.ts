@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeCodeIndented
 exports.resolve = resolveCodeIndented
 

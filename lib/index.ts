@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = buffer
 
 var compiler = require('./compile/html')

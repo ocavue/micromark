@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeContent
 exports.resolve = resolveContent
 exports.interruptible = true

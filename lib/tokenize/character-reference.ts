@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeCharacterReference
 
 var assert = require('assert')

@@ -1,3 +1,4 @@
+// @ts-nocheck
 exports.tokenize = tokenizeAutolink
 
 var assert = require('assert')

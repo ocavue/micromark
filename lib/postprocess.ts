@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = postprocess
 
 var subtokenize = require('./util/subtokenize')

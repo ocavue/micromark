@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = combineExtensions
 
 var own = require('../constant/has-own-property')

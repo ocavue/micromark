@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = regexCheck
 
 var fromCharCode = require('../constant/from-char-code')

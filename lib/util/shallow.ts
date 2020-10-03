@@ -1,3 +1,4 @@
+// @ts-nocheck
 module.exports = shallow
 
 var assign = require('../constant/assign')
