@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+        "allowJs": false,
+        "checkJs": false,
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "lib": [
+            "ES5"
+        ],
+        "target": "ES5",
+        "noEmit": false,
+        "strict": false,
+        "baseUrl": ".",
+        "paths": {
+        },
+        "outDir": "dist"
+    },
+    "include": [
+        "lib/**/*.ts",
+        "lib/*.ts"
+    ],
+}
