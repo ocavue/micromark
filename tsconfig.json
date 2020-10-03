@@ -1,10 +1,17 @@
 {
+    // "extends": "@tsconfig/recommended/tsconfig.json",
     "compilerOptions": {
+        "allowJs": true,
+        "checkJs": true,
+        "module": "commonjs",
         "moduleResolution": "node",
+        "esModuleInterop": true,
         "lib": [
             "ES5"
         ],
-        "strict": true,
+        "target": "ES5",
+        "noEmit": false,
+        "strict": false,
         "baseUrl": ".",
         "paths": {
             "micromark": [
@@ -13,6 +20,11 @@
             "micromark/stream": [
                 "stream.d.ts"
             ]
-        }
-    }
+        },
+        "outDir": "dist"
+    },
+    "include": [
+        "lib/**/*.ts",
+        "lib/*.ts"
+    ]
 }

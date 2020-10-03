@@ -91,12 +91,16 @@ export interface Token {
    * Generally, tabs and spaces behave the same, but in the case of a hard break through trailing spaces ( \n), tabs
    */
   _tabs?: boolean
+
+  _container?: boolean
+
+  _loose?: boolean
 }
 
 /**
  *
  */
-export type Event = [string, Token, unknown]
+export type Event = [string, Token, Tokenizer]
 
 /**
  * These these are transitions to update the CommonMark State Machine (CSMS)

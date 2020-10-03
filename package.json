@@ -46,6 +46,7 @@
     "Marouane Fazouane <fazouanem3@gmail.com>",
     "Merlijn Vos <merlijn@soverin.net>"
   ],
+  "types": "./lib/index.d.ts",
   "files": [
     "dist/",
     "lib/",
@@ -65,10 +66,10 @@
     "character-entities": "^1.0.0",
     "commonmark.json": "^0.29.0",
     "concat-stream": "^2.0.0",
+    "dtslint": "^4.0.0",
     "eslint-plugin-es": "^3.0.0",
     "eslint-plugin-security": "^1.0.0",
     "eslint-plugin-sonarjs": "^0.5.0",
-    "dtslint": "^4.0.0",
     "gzip-size-cli": "^3.0.0",
     "ms": "^2.0.0",
     "nyc": "^15.0.0",
@@ -90,7 +91,7 @@
     "format": "remark . -qfo && prettier . -w --loglevel warn && xo --fix",
     "test-api": "node test",
     "test-coverage": "nyc --reporter lcov tape test/index.js",
-    "test-types": "dtslint .",
+    "test-types": "dtslint --onlyTestTsNext . && yarn tsc -p ./tsconfig.json",
     "test": "npm run generate && npm run format && npm run test-coverage && npm run test-types"
   },
   "nyc": {
